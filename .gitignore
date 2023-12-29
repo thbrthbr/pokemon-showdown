@@ -1,6 +1,6 @@
-/config/*
-!/config/formats.ts
-!/config/usergropus.csv
+# /config/*
+# !/config/formats.ts
+# !/config/usergropus.csv
 /logs/*
 /test/modlogs
 /test/replays/*.html
